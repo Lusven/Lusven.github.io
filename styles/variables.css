@@ -1,0 +1,11 @@
+:root {
+    --primary-color: blue;
+    --black-color: green;
+    }
+    main{
+        font-family: "Montserrat", sans-serif;
+        overflow: hidden;
+    }
+    .text-serif{
+        font-family: "TenorSans-Regular", serif;
+    }
